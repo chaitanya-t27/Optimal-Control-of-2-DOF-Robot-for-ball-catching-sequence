@@ -15,7 +15,7 @@ The robot moves and starts at time t = 0 when the ball starts moving. The robot 
 
 The following gif shows the ball moving and the robot catching the ball at specified location and bringing it to rest after catching.
 
-![2D Robot movement with ball in the environment catching the ball](./best_gif.gif)
+![2D Robot movement with ball in the environment catching the ball](./2D_catch_gif.gif)
 
 The robot parameters can be set according to ball speed such that the catching sequence is consistent with the moving ball.
 
